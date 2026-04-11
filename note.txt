@@ -4,4 +4,7 @@
 (a) git add<filename>  {to stage one file}
 (b) git add .{to stage all files}
 git status is the command that shows the status of a file
-commit takes a snapshot of your codebase 
+3.commit takes a snapshot of your codebase 
+commit code: git commit -m "First Commit"
+
+4.push: git push -u origin main
