@@ -1,0 +1,7 @@
+1. initialization- git init
+
+2.staging
+(a) git add<filename>  {to stage one file}
+(b) git add .{to stage all files}
+git status is the command that shows the status of a file
+commit takes a snapshot of your codebase 
