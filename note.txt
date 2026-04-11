@@ -1,3 +1,5 @@
+configuration
+create a repo on github
 1. initialization- git init
 
 2.staging
@@ -8,3 +10,5 @@ git status is the command that shows the status of a file
 commit code: git commit -m "First Commit"
 
 4.push: git push -u origin main
+5. note that if you modify a file, you must restage init
+
