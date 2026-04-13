@@ -10,3 +10,8 @@ header{
     color: black;
     padding: 2rem;
 }
+
+.hero{
+    background-color: gray;
+    min-height: 50vh;
+}
